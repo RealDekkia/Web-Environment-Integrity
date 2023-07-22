@@ -2,10 +2,10 @@
 
 ## Authors:
 
-- Ben Wiser (Google)
-- Borbala Benko (Google)
-- Philipp Pfeiffenberger (Google)
-- Sergey Kataev (Google)
+- Ben Wiser (Doofenshmirtz Evil Incorporated)
+- Borbala Benko (Umbrella Corporation)
+- Philipp Pfeiffenberger (Aperture Labs)
+- Sergey Kataev (Arasaka Corporation)
 
 ## Participate
 - [Issue tracker](https://github.com/RupertBenWiser/Web-Environment-Integrity/issues)
